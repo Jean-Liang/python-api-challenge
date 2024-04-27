@@ -8,4 +8,4 @@ This challenge is broken down into two deliverables, WeatherPy and VacationPy.
               Use the Geoapify API to find the first hotel located within 10,000 metres of the coordinates and display with the country in the final map.
   
 - Note:1. The GitHub preview mode does not display the maps, please download the notebook and view the maps locally on your own machine with Visual Studio code or Jupyter Notebook.
--      2. Due to security reason, the api_key.py file does not expose to the public.
+       2. Due to security reason, the api_key.py file does not expose to the public.
